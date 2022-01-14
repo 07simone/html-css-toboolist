@@ -38,6 +38,8 @@ padding: 0;
     border-radius: 10px;
     padding:10px;
     border: none;
+    
+    
 }
 
 .tast{
@@ -49,4 +51,62 @@ padding: 0;
 .section{
     background-color: white;
     border: 1px solid lightgrey;
+}
+
+.edi-1{
+    border-radius: 15px;
+    padding:5px;
+    border: none;
+    background-color: rgb(50, 143, 230);
+    color: white;
+}
+
+.edi-2{
+    border-radius: 15px;
+    padding:5px;
+    border: none;
+    color: white;
+    background-color: violet;
+}
+.edi-3{
+    border-radius: 15px;
+    padding:5px;
+    border: none;
+    color: white;
+    background-color: green;
+}
+
+.edi-4{
+    border-radius: 15px;
+    padding:5px;
+    border: none;
+    color: white;
+    background-color: orange;
+}
+
+.edi-5{
+    border-radius: 15px;
+    padding:5px;
+    border: none;
+    color: white;
+    background-color:palevioletred
+}
+
+.edi-6{
+    border-radius: 15px;
+    padding:5px;
+    border: none;
+    color: white;
+    background-color: yellowgreen;
+}
+.paragrafo{
+    margin-top: 15px;
+}
+
+.list-1, .list-2, .list-3{
+    margin-top: 30px;
+}
+
+.titolo{
+    font-size: 25px;
 }
