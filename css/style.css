@@ -20,29 +20,32 @@ padding: 0;
     width: 800px;
     height: 80px;
     background-color: white;
-    margin-left: 500px;
+    margin: 0 auto;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     padding-left: 50px ;
     padding-top: 15px;
+    
 }
 
 .contenitore-4{
     width: 800px;
     background-color: white;
-    height: 500px;
-    margin-left: 500px;
+    height: 600px;
+    margin: 0 auto;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     padding-left: 50px;
     padding-top: 15px;
     margin-top: 5px;
+    
 }
 
 
 
 .oggetto{
     margin-bottom: 15px;
+    
 }
 
 
@@ -55,25 +58,25 @@ padding: 0;
     line-height: 30px;
 }
 
-.bottone{
+.tast-bottone{
     font-size: 15px;
+    border: none;
     border-radius: 10px;
     padding:10px;
-    border: none;
+    background-color: rgb(50, 143, 230);
+    color: white;
     
     
 }
 
-.tast{
-    background-color: rgb(50, 143, 230);
-    color: white;
-    border: 1px solid rgb(50, 143, 230) ;
+.section-bottone{
+    font-size: 15px;
+    border-radius: 10px;
+    padding:10px;
+    border:none;
     
 }
-.section{
-    background-color: white;
-    border: 1px solid lightgrey;
-}
+
 
 .edi-1{
     border-radius: 15px;
@@ -121,12 +124,24 @@ padding: 0;
     color: white;
     background-color: yellowgreen;
 }
+
+span{
+    font-size: 10px;
+}
 .paragrafo{
     margin-top: 15px;
 }
 
-.list-1, .list-2, .list-3{
-    margin-top: 15px;
+.list-1{
+    margin-top:15px;
+    
+}
+.list-2{
+    margin-top: 50px;
+}
+
+.list-3{
+    margin-top: 50px;
 }
 
 .titolo{
