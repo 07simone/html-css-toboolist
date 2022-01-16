@@ -38,7 +38,10 @@ padding: 0;
     padding-left: 50px;
     padding-top: 15px;
     margin-top: 5px;
-    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCBr8MD7qX_K4haVN3FJe9oaCj1qhTJ2kHg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
 }
 
 
@@ -76,6 +79,8 @@ padding: 0;
     border:none;
     
 }
+
+
 
 
 .edi-1{
